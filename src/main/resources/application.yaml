@@ -1,0 +1,3 @@
+server:
+  max-http-header-count: 100
+  max-http-header-size: 8000
